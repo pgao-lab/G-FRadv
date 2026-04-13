@@ -36,5 +36,13 @@ https://github.com/liufeiqiang123/DRMSFFN
 ## Citation
 
 ```bibtex
-
+@article{gao2025towards,
+  title={Towards Greedy Iterative Adversarial Attack With Distortion Maps Against Deep Face Recognition},
+  author={Gao, Peng and Zhu, Jiu-Ao and Qin, Wen-Hua},
+  journal={IEEE Signal Processing Letters},
+  volume={32},
+  pages={4369--4373},
+  year={2025},
+  publisher={IEEE}
+}
 ```
